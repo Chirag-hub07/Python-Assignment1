@@ -1,19 +1,57 @@
-====== REPORT SAVED ON: October 06, 2025 - 01:08:20 PM ======
+====== REPORT SAVED ON: October 06, 2025 - 02:33:30 PM ======
 
 ==============================
       CALORIE SUMMARY
 ==============================
 Meal Name           Calories
 ------------------------------
-breakfast            3000 kcal
-lunch                2000 kcal
-dinner               1111 kcal
+Breakfast             250 kcal
+Lunch                 330 kcal
+Dinner                455 kcal
 ------------------------------
-Total:               6111 kcal
-Average:            2037.00 kcal
-Your Limit:          6000 kcal
+Total:               1035 kcal
+Average:            345.00 kcal
+Your Limit:           900 kcal
 ==============================
 Warning: You've exceeded your daily calorie limit!
 Time to make your next meals lighter and smarter.
+
+
+====== REPORT SAVED ON: October 06, 2025 - 02:35:21 PM ======
+
+==============================
+      CALORIE SUMMARY
+==============================
+Meal Name           Calories
+------------------------------
+Breakfast             390 kcal
+Dinner                440 kcal
+------------------------------
+Total:                830 kcal
+Average:            415.00 kcal
+Your Limit:           700 kcal
+==============================
+Warning: You've exceeded your daily calorie limit!
+Time to make your next meals lighter and smarter.
+
+
+====== REPORT SAVED ON: October 06, 2025 - 02:38:06 PM ======
+
+==============================
+      CALORIE SUMMARY
+==============================
+Meal Name           Calories
+------------------------------
+Breakfast             450 kcal
+Lunch                 120 kcal
+Snacks                220 kcal
+Dinner                100 kcal
+------------------------------
+Total:                890 kcal
+Average:            222.50 kcal
+Your Limit:           890 kcal
+==============================
+Bullseye! You've matched your daily goal.
+Keep up this perfect balance.
 
 
